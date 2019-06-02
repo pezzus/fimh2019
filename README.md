@@ -8,7 +8,7 @@ More information can be found in the poster and in the proceeding paper for the 
 Poster presented at FIMH2019 in Bordeaux: [1906FIMH_poster.pdf](1906FIMH_poster.pdf)
 
 ### Paper
-Preprint is available in this repository: [FIMH2019_RFields_r1.pdf](FIMH2019_RField_r1.pdf)
+Preprint is available in this repository: [FIMH2019_RFields_r1.pdf](FIMH2019_RFields_r1.pdf)
 
 Please cite the following version of the paper:
 
